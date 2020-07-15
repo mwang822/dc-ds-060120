@@ -1,0 +1,3 @@
+for f in in ./*.png;
+	do echo ${f};
+done;
